@@ -14,3 +14,5 @@ fields:
   default: home-page
   config:
     required: true
+pages:
+- content/pages/index.md
